@@ -1,0 +1,46 @@
+/* Estilos personalizados */
+body {
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #343a40;
+}
+
+header a {
+    color: #ffffff;
+}
+
+section {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    border: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.btn-white{
+    background-color: #ffffff;
+    color: #343a40;
+    border: 1px solid #fff;
+}
+
+.btn-white:hover{
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.font-italic{
+    font-style: italic;
+}
+
+.carrinho{
+    font-size: 20px;
+}
